@@ -1,0 +1,21 @@
+{
+  "name": "Axlore Tech",
+  "short_name": "Axlore",
+  "description": "Custom Software Development Studio by Aya Mustafa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060606",
+  "theme_color": "#3d7ac5",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
